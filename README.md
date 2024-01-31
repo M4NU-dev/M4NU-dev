@@ -74,9 +74,24 @@
 <br><br>
 
 <h2>GitHub :octocat:</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4nu-dev" alt="m4nu-dev" /></a> </p>
+<p align="center">
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=m4nu-dev&theme=dark&hide_border=false" /> 
+</td>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4nu-dev&show_icons=true&locale=en&layout=compact" alt="m4nu-dev" /></p>
+<td width="40%" align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4nu-dev&show_icons=true&locale=en" alt="m4nu-dev" /></p>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=m4nu-dev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=m4nu-dev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>  
 
