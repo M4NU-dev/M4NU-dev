@@ -23,7 +23,7 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,cs,css,dotnet,figma,firebase,graphql,html,idea,ai,java,js,kotlin,mysql,ps,php,postgres,pr,swift,unity,sqlite,vscode,vue" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,cs,css,dotnet,figma,firebase,graphql,html,idea,ai,java,js,kotlin,mysql,ps,php,postgres,pr,swift,unity,sqlite,vscode,vue,gitlab,github" />
   </a>
 </p>
 
