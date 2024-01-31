@@ -10,18 +10,15 @@
   <br>
 <h2>Sobre mi 😃</h2>
 
-- 🔭 I’m currently working on [Dark Zone](https://store.steampowered.com/app/2510420/Dark_Zone/)
+<p align="left">
+🎓 Android Software Engineer | Kotlin | Java (Móviles y Desktop) | Desarrollo de Videojuegos C#
 
-- 🌱 I’m currently learning **Jetpack Compose, Unreal Engine**
+🔭 Estoy desarrollando mi propio juego llamado [Dark Zone](https://store.steampowered.com/app/2510420/Dark_Zone/)
 
-- 👨‍💻 All of my projects are available at [https://m4nu-dev.github.io/my-portfolio/](https://m4nu-dev.github.io/my-portfolio/)
+📝 Mas información sobre mis trabajos [https://m4nu-dev.github.io/my-portfolio/](https://m4nu-dev.github.io/my-portfolio/)
 
-- 💬 Ask me about **Android, Java, Kotlin, Swift**
-
-- 📫 How to reach me **globalsoft2013@gmail.com**
-
-- 📄 Know about my experiences [https://m4nu-dev.github.io/my-portfolio/](https://m4nu-dev.github.io/my-portfolio/)
-
+📫 Contacto: **globalsoft2013@gmail.com**
+  </p>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
