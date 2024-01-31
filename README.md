@@ -42,19 +42,18 @@
     </p>       
 </td>
 
-<tr border="none">
-  <td width="25%" align="center">
+<td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
         <img align="center" width=100% src="https://m4nu-dev.github.io/my-portfolio/assets/portfolio/desktop/fmt_saas.png" alt="PROYECTO" /></a>
       </p>
     <p align="center">
         <a href="https://m4nu-dev.github.io/my-portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"  /></a></a>
-    </p>       
+    </p>   
+      
 </td>
 
-<tr border="none">
-  <td width="25%" align="center">
+<td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
         <img align="center" width=100% src="https://m4nu-dev.github.io/my-portfolio/assets/portfolio/desktop/fmt_saas.png" alt="PROYECTO" /></a>
