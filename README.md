@@ -29,7 +29,7 @@
 <a href="https://www.youtube.com/c/@m4nu_d3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@m4nu_d3v" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,cs,css,dotnet,figma,firebase,graphql,html,idea,ai,java,js,kotlin,mysql,ps,php,postgres,pr,swift,unity" />
