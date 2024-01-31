@@ -38,7 +38,7 @@
         <img align="center" width=100% src="https://m4nu-dev.github.io/my-portfolio/assets/portfolio/desktop/fmt_saas.png" alt="PROYECTO" /></a>
       </p>
     <p align="center">
-        <a href="https://m4nu-dev.github.io/my-portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"  /></a></a>
+        <a href="https://m4nu-dev.github.io/my-portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@m4nu-dev"  /></a></a>
     </p>       
 </td>
 
@@ -48,7 +48,7 @@
         <img align="center" width=100% src="https://m4nu-dev.github.io/my-portfolio/assets/portfolio/mobil/DayParty.png" alt="PROYECTO" /></a>
       </p>
     <p align="center">
-        <a href="https://m4nu-dev.github.io/my-portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"  /></a></a>
+        <a href="https://m4nu-dev.github.io/my-portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@m4nu-dev"  /></a></a>
     </p>   
       
 </td>
@@ -59,7 +59,7 @@
         <img align="center" width=100% src="https://m4nu-dev.github.io/my-portfolio/assets/portfolio/mobil/Appxi.png" alt="PROYECTO" /></a>
       </p>
     <p align="center">
-        <a href="https://m4nu-dev.github.io/my-portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"  /></a></a>
+        <a href="https://m4nu-dev.github.io/my-portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@m4nu-dev"  /></a></a>
     </p>       
 </td>
 
