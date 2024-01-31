@@ -5,7 +5,6 @@
   <a href="https://www.youtube.com/@M4NU_D3V" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@M4NU_D3V"  /></a>
 <a href="https://linkedin.com/in/luis-manuel-larrea" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis-manuel-larrea"/></a>
 <a href = "mailto:globalsoft2013@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@globalsoft2013"  /></a>
-<a href="https://www.instagram.com/gs_m4nu" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="gs_m4nu"  /></a>
   </p>
 
   <br>
@@ -23,12 +22,6 @@
 
 - 📄 Know about my experiences [https://m4nu-dev.github.io/my-portfolio/](https://m4nu-dev.github.io/my-portfolio/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luis-manuel-larrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-manuel-larrea" height="30" width="40" /></a>
-<a href="https://instagram.com/gs_m4nu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gs_m4nu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@m4nu_d3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@m4nu_d3v" height="30" width="40" /></a>
-</p>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
