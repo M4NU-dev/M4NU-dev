@@ -10,8 +10,6 @@
   <br>
 <h2>Sobre mi 😃</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4nu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="m4nu-dev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4nu-dev" alt="m4nu-dev" /></a> </p>
 
 - 🔭 I’m currently working on [Dark Zone](https://store.steampowered.com/app/2510420/Dark_Zone/)
