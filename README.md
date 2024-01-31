@@ -2,9 +2,9 @@
 <h3 align="center">Un apasionado desarrollador de Android/iOS que vive en Venezuela</h3>
 
 <p align="left">
-  <a href="https://www.youtube.com/@M4NU_D3V" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@M4NU_D3V"  /></a>
-<a href="https://linkedin.com/in/luis-manuel-larrea" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis-manuel-larrea"/></a>
-<a href = "mailto:globalsoft2013@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@globalsoft2013"  /></a>
+  <a href="https://www.youtube.com/@M4NU_D3V" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@M4NU_D3V"  /></a>
+<a href="https://linkedin.com/in/luis-manuel-larrea" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis-manuel-larrea"/></a>
+<a href = "mailto:globalsoft2013@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@globalsoft2013"  /></a>
   </p>
 
   <br>
