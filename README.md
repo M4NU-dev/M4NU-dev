@@ -8,7 +8,7 @@
   </p>
 
   <br>
-<h2>Sobre mi :neckbeard:</h2>
+<h2>Sobre mi 😃</h2>
 
 - 🔭 I’m currently working on [Dark Zone](https://store.steampowered.com/app/2510420/Dark_Zone/)
 
